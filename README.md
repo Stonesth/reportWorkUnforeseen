@@ -1,5 +1,8 @@
 # reportWorkUnforeseen
 
+This project is replaced by the Run_report
+
+
 git clone https://github.com/Stonesth/reportWorkUnforeseen.git
 
 Need to import the folowing project into this one 
